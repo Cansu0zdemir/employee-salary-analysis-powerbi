@@ -6,3 +6,14 @@ salaries against departmental averages to identify high earners.
 
 The dashboard is designed to support HR and management teams with
 clear, actionable salary insights.
+
+## 🛠 Tech Stack
+- SQL (data preparation)
+- Power BI
+- DAX
+
+## 🎯 Use Case
+This dashboard helps HR and management teams:
+- Identify employees earning above their department average
+- Detect salary imbalances across departments
+- Support compensation and budgeting decisions
